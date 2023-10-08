@@ -1,0 +1,11 @@
+--2023-10-07 20:51:06--  https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2Fe1847d2f6aa220e98488acfffd9eb115%2F1696670604156IMG_7829.jpeg
+Resolving imagesvc.meredithcorp.io (imagesvc.meredithcorp.io)... 151.101.78.137
+Connecting to imagesvc.meredithcorp.io (imagesvc.meredithcorp.io)|151.101.78.137|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1702678 (1.6M) [image/jpeg]
+Saving to: 'image?url=https:%2F%2Fpublic-assets.meredithcorp.io%2Fe1847d2f6aa220e98488acfffd9eb115%2F1696670604156IMG_7829.jpeg'
+
+          image?url   0%[                    ]       0  --.-KB/s                        image?url=  22%[===>                ] 375.27K  1.29MB/s                       image?url=h  48%[========>           ] 810.38K  1.63MB/s                      image?url=ht  69%[============>       ]   1.13M  1.62MB/s                     image?url=htt  92%[=================>  ]   1.51M  1.66MB/s               image?url=https:%2F 100%[===================>]   1.62M  1.54MB/s    in 1.1s    
+
+2023-10-07 20:51:09 (1.54 MB/s) - 'image?url=https:%2F%2Fpublic-assets.meredithcorp.io%2Fe1847d2f6aa220e98488acfffd9eb115%2F1696670604156IMG_7829.jpeg' saved [1702678/1702678]
+
